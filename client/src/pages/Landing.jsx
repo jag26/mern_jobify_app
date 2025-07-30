@@ -16,9 +16,9 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Hi, I'm Jagrati Sachan. I built this job tracking application to
-            help users manage and organize their job applications more
-            efficiently during their job search journey.
+            Hi,I'm Jagrati Sachan. I built this job tracking application to help
+            users manage and organize their job applications more efficiently
+            during their job search journey.
           </p>
 
           <Link to="/register" className="btn register-link">
